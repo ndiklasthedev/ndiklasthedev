@@ -15,21 +15,21 @@
 </p>
 
 
-<!-- - 💬 Ask me about ... https://muchezz.github.io/
+<!-- - 💬 Ask me about ... https://ndiklasthedev.github.io/
 🔭 I’m currently working in CloudFactory Kenya <br>
 💬 I also work as a QA tester - freelance at uTest.
 🌱 I’m currently learning Docker, Django and ReactJs <br>
-📫 How to reach me: [Twitter](https://twitter.com/Mucheeru) or [linkedIn](https://www.linkedin.com/in/mucheruj/) <br>
+📫 How to reach me: [Twitter](https://twitter.com/nicholasn30) or [linkedIn](https://www.linkedin.com/in/nicholasnd/) <br>
 👯 Love Walking,hiking and boat riding..<br>
    ⚡Projects: <br>
  - A Microblog completely built in Flask. Check it out [here](https://microblogke-flask.herokuapp.com/) <br>
  - An Ecommerce platform built in Flask during the Andela SDG Challenge. Check it out [here](https://kaehcle-backend.herokuapp.com/)<br> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-mucheru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mucheruj/)](https://www.linkedin.com/in/mucheruj/)
-[![Twitter Badge](https://img.shields.io/badge/-Mucheeru-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Mucheeru/)](https://twitter.com/Mucheeru/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nicholas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholasnd/)](https://www.linkedin.com/in/nicholasnd/)
+[![Twitter Badge](https://img.shields.io/badge/-Nicholas-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/nicholasn30/)](https://twitter.com/Mucheeru/)
 [![Hashnode Badge](https://img.shields.io/badge/-@muchezz-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://mucheru.hashnode.dev/)](https://mucheru.hashnode.dev//)
-[![Outlook Badge](https://img.shields.io/badge/-mucheru@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:mucheru@outlook.com)](mailto:mucheru@outlook.com)
-[![Website Badge](https://img.shields.io/badge/-muchezz.github.io-black?style=flat-square&logo=github&logoColor=white&link=https://muchezz.github.io/)](https://muchezz.github.io/)
+[![Outlook Badge](https://img.shields.io/badge/-nicholas@ecogreensolutions.co.ke-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:nicholas@ecogreensolutions.co.ke)](mailto:nicholas@ecogreensolutions.co.ke)
+[![Website Badge](https://img.shields.io/badge/-ndiklasthedev.github.io-black?style=flat-square&logo=github&logoColor=white&link=https://ndiklasthedev.github.io/)](https://ndiklasthedev.github.io/)
 
 
 [![Mucheru's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muchezz&theme=xcode)](https://git.io/Muchezz)
@@ -68,8 +68,8 @@
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muchezz&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muchezz&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ndiklasthedev&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ndiklasthedev&theme=tokyonight" />
 </p>
 
 
