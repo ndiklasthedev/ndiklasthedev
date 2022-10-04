@@ -26,7 +26,7 @@
  - An Ecommerce platform built in Flask during the Andela SDG Challenge. Check it out [here](https://kaehcle-backend.herokuapp.com/)<br> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nicholas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholasnd/)](https://www.linkedin.com/in/nicholasnd/)
-[![Twitter Badge](https://img.shields.io/badge/-Nicholas-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/nicholasn30/)](https://twitter.com/Mucheeru/)
+[![Twitter Badge](https://img.shields.io/badge/-Nicholas-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/nicholasn30/)](https://twitter.com/nicholasn30/)
 [![Hashnode Badge](https://img.shields.io/badge/-@ndiklasthedev-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://ndiklasthedev.hashnode.dev/)](https://ndiklasthedev.hashnode.dev//)
 [![Outlook Badge](https://img.shields.io/badge/-nicholas@ecogreensolutions.co.ke-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:nicholas@ecogreensolutions.co.ke)](mailto:nicholas@ecogreensolutions.co.ke)
 [![Website Badge](https://img.shields.io/badge/-ndiklasthedev.github.io-black?style=flat-square&logo=github&logoColor=white&link=https://ndiklasthedev.github.io/)](https://ndiklasthedev.github.io/)
