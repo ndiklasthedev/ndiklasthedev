@@ -32,7 +32,7 @@
 [![Website Badge](https://img.shields.io/badge/-ndiklasthedev.github.io-black?style=flat-square&logo=github&logoColor=white&link=https://ndiklasthedev.github.io/)](https://ndiklasthedev.github.io/)
 
 
-[![Mucheru's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muchezz&theme=xcode)](https://git.io/Muchezz)
+[![Ndiklas github activity graph](https://activity-graph.herokuapp.com/graph?username=ndiklasthedev&theme=xcode)](https://git.io/ndiklasthedev)
 
 
 ## ⚡ Technologies
