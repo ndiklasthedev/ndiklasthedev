@@ -9,12 +9,6 @@
 
 - 🔭 I’m currently working on **Cloud Solutions**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nicholasn30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicholasn30" height="30" width="40" /></a>
-</p>
-
-
 <!-- - 💬 Ask me about ... https://ndiklasthedev.github.io/
 🔭 I’m currently working in CloudFactory Kenya <br>
 💬 I also work as a QA tester - freelance at uTest.
