@@ -32,7 +32,7 @@
 ## ⚡ Technologies
 
 ### Telecommunications & Fiber Infrastructure:
-![Ubuntu Badge](https://badgen.net/badge/OS/Ubuntu/orange?icon=linux)
+![Nokia](https://badgen.net/badge/Brand/Nokia/005AFF)
 
 ### Cloud Tools:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
