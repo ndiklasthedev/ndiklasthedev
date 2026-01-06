@@ -31,6 +31,9 @@
 
 ## ⚡ Technologies
 
+### Telecommunications & Fiber Infrastructure:
+![Ubuntu Badge](https://badgen.net/badge/OS/Ubuntu/orange?icon=linux)
+
 ### Cloud Tools:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
