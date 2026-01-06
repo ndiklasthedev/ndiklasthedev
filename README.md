@@ -60,7 +60,7 @@
 <a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
 </p> -->
 
-## 📈 Stats
+```## 📈 Stats
 ```<p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ndiklasthedev&show_icons=true&theme=tokyonight" />
