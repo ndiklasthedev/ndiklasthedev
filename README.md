@@ -32,7 +32,7 @@
 ## ⚡ Technologies
 
 ### Telecommunications & Fiber Infrastructure:
-![Nokia](https://badgen.net/badge/Brand/Nokia/005AFF?scale=1.5)
+[![](https://badgen.net/badge/Brand/Nokia/005AFF?scale=1.5)](https://www.nokia.com)
 
 ### Cloud Tools:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
