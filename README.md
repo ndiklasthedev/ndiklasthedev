@@ -33,6 +33,8 @@
 
 ### Telecommunications & Fiber Infrastructure:
 [![](https://badgen.net/badge/Brand/Nokia/005AFF?scale=1.5)](https://www.nokia.com)
+![Cisco](https://badgen.net/badge/Brand/Cisco/1BA0D7?style=flat&scale=1.5)
+![Huawei](https://badgen.net/badge/Brand/Huawei/EE2A31?scale=1.5)
 
 ### Cloud Tools:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
